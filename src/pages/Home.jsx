@@ -1,0 +1,13 @@
+import { Hero } from '../components/sections/Hero';
+import { Features } from '../components/sections/Features';
+import { Courses } from '../components/sections/Courses';
+
+export const Home = () => {
+  return (
+    <div>
+      <Hero />
+      <Features />
+      <Courses />
+    </div>
+  );
+};
