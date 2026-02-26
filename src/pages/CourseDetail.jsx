@@ -143,7 +143,7 @@ export const CourseDetail = ({ courseId }) => {
             <div className="space-y-6">
               <div>
                 <div className="flex items-center gap-3 mb-3">
-                  <img src="/src/assets/e.png" alt="Entendimento" className="w-12 h-12" />
+                  <img src="/assets/e.png" alt="Entendimento" className="w-12 h-12" />
                   <h3 className="text-xl font-bold text-accent-yellow">Entendimento</h3>
                 </div>
                 <p className="text-primary-deep/80 pl-15">{course.elcApplication.entendimento}</p>
@@ -151,7 +151,7 @@ export const CourseDetail = ({ courseId }) => {
 
               <div>
                 <div className="flex items-center gap-3 mb-3">
-                  <img src="/src/assets/l.png" alt="Lógica" className="w-12 h-12" />
+                  <img src="/assets/l.png" alt="Lógica" className="w-12 h-12" />
                   <h3 className="text-xl font-bold text-accent-purple">Lógica</h3>
                 </div>
                 <p className="text-primary-deep/80 pl-15">{course.elcApplication.logica}</p>
@@ -159,7 +159,7 @@ export const CourseDetail = ({ courseId }) => {
 
               <div>
                 <div className="flex items-center gap-3 mb-3">
-                  <img src="/src/assets/c.png" alt="Construção" className="w-12 h-12" />
+                  <img src="/assets/c.png" alt="Construção" className="w-12 h-12" />
                   <h3 className="text-xl font-bold text-accent-red">Construção</h3>
                 </div>
                 <p className="text-primary-deep/80 pl-15">{course.elcApplication.construcao}</p>

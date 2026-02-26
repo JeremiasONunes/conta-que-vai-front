@@ -4,7 +4,7 @@ export const Method = () => {
   const pillars = [
     {
       letter: 'E',
-      image: '/src/assets/e.png',
+      image: '/assets/e.png',
       title: 'Entendimento',
       color: 'text-accent-yellow',
       description: 'Compreensão Real dos Conceitos',
@@ -23,7 +23,7 @@ export const Method = () => {
     },
     {
       letter: 'L',
-      image: '/src/assets/l.png',
+      image: '/assets/l.png',
       title: 'Lógica',
       color: 'text-accent-purple',
       description: 'Desenvolvimento do Raciocínio Matemático',
@@ -42,7 +42,7 @@ export const Method = () => {
     },
     {
       letter: 'C',
-      image: '/src/assets/c.png',
+      image: '/assets/c.png',
       title: 'Construção',
       color: 'text-accent-red',
       description: 'Progressão Estruturada do Conhecimento',
@@ -68,7 +68,7 @@ export const Method = () => {
           <div className="grid md:grid-cols-2 gap-16 items-center mb-16">
             {/* Logo */}
             <div className="flex justify-center md:justify-end">
-              <img src="/src/assets/logo elc.png" alt="Método ELC" className="w-full max-w-md" />
+              <img src="/assets/logo elc.png" alt="Método ELC" className="w-full max-w-md" />
             </div>
 
             {/* Texto */}

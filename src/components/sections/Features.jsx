@@ -22,7 +22,7 @@ export const Features = () => {
   return (
     <section className="section-container math-bg">
       <div className="text-center mb-16">
-        <img src="/src/assets/logo elc.png" alt="Método ELC" className="h-24 mx-auto mb-6" />
+        <img src="/assets/logo elc.png" alt="Método ELC" className="h-24 mx-auto mb-6" />
         <h2 className="text-4xl md:text-5xl font-bold mb-4 text-primary-deep">
           O <span className="gradient-text">Método ELC®</span>
         </h2>

@@ -7,7 +7,7 @@ export const About = () => {
       <section className="section-container">
         <div className="max-w-5xl mx-auto">
           <div className="text-center mb-16">
-            <img src="/src/assets/logo.png" alt="Conta Que Vai" className="h-24 mx-auto mb-8" />
+            <img src="/assets/logo.png" alt="Conta Que Vai" className="h-24 mx-auto mb-8" />
             <h1 className="text-5xl md:text-7xl font-bold mb-6 text-primary-deep">
               Sobre a <span className="gradient-text">Conta Que Vai</span>
             </h1>
@@ -68,7 +68,7 @@ export const About = () => {
 
             <div className="grid md:grid-cols-3 gap-6 mb-12">
               <GlassCard className="text-center">
-                <img src="/src/assets/e.png" alt="Entendimento" className="w-20 h-20 mx-auto mb-4" />
+                <img src="/assets/e.png" alt="Entendimento" className="w-20 h-20 mx-auto mb-4" />
                 <h3 className="text-2xl font-bold text-accent-yellow mb-3">Entendimento</h3>
                 <p className="text-primary-deep/80 leading-relaxed">
                   Compreensão profunda dos conceitos. O aluno entende o QUÊ, POR QUÊ, COMO e ONDE aplicar.
@@ -76,7 +76,7 @@ export const About = () => {
               </GlassCard>
 
               <GlassCard className="text-center">
-                <img src="/src/assets/l.png" alt="Lógica" className="w-20 h-20 mx-auto mb-4" />
+                <img src="/assets/l.png" alt="Lógica" className="w-20 h-20 mx-auto mb-4" />
                 <h3 className="text-2xl font-bold text-accent-purple mb-3">Lógica</h3>
                 <p className="text-primary-deep/80 leading-relaxed">
                   Desenvolvimento do raciocínio matemático estruturado através de análise crítica e argumentação.
@@ -84,7 +84,7 @@ export const About = () => {
               </GlassCard>
 
               <GlassCard className="text-center">
-                <img src="/src/assets/c.png" alt="Construção" className="w-20 h-20 mx-auto mb-4" />
+                <img src="/assets/c.png" alt="Construção" className="w-20 h-20 mx-auto mb-4" />
                 <h3 className="text-2xl font-bold text-accent-red mb-3">Construção</h3>
                 <p className="text-primary-deep/80 leading-relaxed">
                   Progressão estruturada do simples ao complexo, com baby steps e revisão contínua.

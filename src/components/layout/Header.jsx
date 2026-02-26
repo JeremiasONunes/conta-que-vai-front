@@ -19,7 +19,7 @@ export const Header = () => {
           {/* Logo */}
           <div className="flex-shrink-0">
             <a href="/" className="flex items-center gap-2">
-              <img src="/src/assets/logo.png" alt="Conta Que Vai" className="h-10" />
+              <img src="/assets/logo.png" alt="Conta Que Vai" className="h-10" />
             </a>
           </div>
 

@@ -4,7 +4,7 @@ export const Footer = () => {
       <div className="section-container">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="col-span-1 md:col-span-2">
-            <img src="/src/assets/logo.png" alt="Conta Que Vai" className="h-12 mb-4" />
+            <img src="/assets/logo.png" alt="Conta Que Vai" className="h-12 mb-4" />
             <p className="text-primary-deep/70 mb-4">
               Transformando a relação dos alunos com a matemática através do Método ELC®
             </p>

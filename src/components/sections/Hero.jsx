@@ -10,7 +10,7 @@ export const Hero = () => {
         <div className="grid md:grid-cols-2 gap-16 items-center max-w-6xl mx-auto">
           {/* Logo */}
           <div className="flex justify-center md:justify-end">
-            <img src="/src/assets/logo.png" alt="Conta Que Vai" className="w-full max-w-md" />
+            <img src="/assets/logo.png" alt="Conta Que Vai" className="w-full max-w-md" />
           </div>
 
           {/* Texto */}
